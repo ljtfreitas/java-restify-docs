@@ -18,6 +18,10 @@ O `java-restify` é compatível com Java 8 ou superior.
 
 Nas páginas dessa documentação, estão detalhados o funcionamento geral da biblioteca e opções de customização. Todos os principais componentes são explicados detalhadamente.
 
+## Código-fonte
+
+O código fonte está no Github, sob a licença MIT: https://github.com/ljtfreitas/java-restify
+
 ## Exemplos de código
 
 Exemplos de código [estão disponíveis no Github](https://github.com/ljtfreitas/java-restify-samples).
